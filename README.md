@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Nicolas Coquelet
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/as3cod3r?label=Follow)](https://twitter.com/intent/follow?screen_name=as3cod3r)
-[![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/nicolas-coquelet-0043b28b)](https://linkedin.com/in/nicolas-coquelet-0043b28b)
+[![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&label=Linkedin&link=https://linkedin.com/in/nicolas-coquelet-0043b28b)](https://linkedin.com/in/nicolas-coquelet-0043b28b)
 
 🏠 Paris
 
