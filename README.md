@@ -11,7 +11,7 @@ const const = {
     past: "Java Senior Developer",
     present: [Solidity Certified Developer, Learning Rust],
     jobs: "Open for opportunities",
-    language: [Typescript, Solidity, Rust, Cairo, Java, Python],
+    language: [Typescript, Solidity, Cairo, Solana, Rust, Java, Python],
     askMeAbout: [Coding],
     technologies: {
       web3: [Rainbowkit, Wagmi, Viem, Web3.js, Hardhat, Foundry],
@@ -23,7 +23,7 @@ const const = {
       llm: [Ollama, Continue, Aider]
     },
     architecture: [Microservices, Hexagonal, Domain-centric],
-    currentFocus: "Using technology to create a fairer world based on web3",
+    currentFocus: ["Using technology to create a fairer world based on web3", "Starknet],
     funFact: "If you wish to make an apple pie from scratch, you must first invent the universe",
     activity: [🛹, 🚵‍♂️, 🏂] 
 };
