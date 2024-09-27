@@ -11,7 +11,7 @@ const const = {
     past: "Java Senior Developer",
     present: [Solidity Certified Developer, Learning Rust],
     jobs: "Open for opportunities",
-    language: [Typescript, Solidity, Rust, Java, Python],
+    language: [Typescript, Solidity, Rust, Cairo, Java, Python],
     askMeAbout: [Coding],
     technologies: {
       web3: [Rainbowkit, Wagmi, Viem, Web3.js, Hardhat, Foundry],
