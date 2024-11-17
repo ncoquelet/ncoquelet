@@ -33,8 +33,9 @@ const const = {
 
 ## Web3 XP
 
-🥷 Nov 2024 — ETHGlobal Bangkok Hackathon <br />
-🏆 Sept/Oct 2024 — Solana Radar Hackathon (2nd place of Consumer Track), [Trenches.top](https://arena.colosseum.org/projects/explore/trenches.top) <br /> 
+🥷🏆 Nov 2024 — ETHGlobal Bangkok Hackathon, Privy Best consumer app Rewqrds, [Fundev](https://ethglobal.com/showcase/fundev-uebrz) <br />
+🥷 Nov 2024 — Starknet Hacker House Bangkok
+🥷🏆 Sept/Oct 2024 — Solana Radar Hackathon, 2nd place of Consumer Track, [Trenches.top](https://arena.colosseum.org/projects/explore/trenches.top) <br /> 
 👨‍🎓 Aug 2024 — Cairo/Starknet training, [Starklings](https://github.com/shramee/starklings-cairo1) and [NodeGuardians](https://nodeguardians.io/character/nicode) <br />
 🥷 Jul 2024 — ETHGlobal Brussels Hackathon, [FutarchETH](https://ethglobal.com/showcase/futarcheth-sw2fz) <br />
 👨‍🎓 Jun/Jul 2024 — Solana developer Workshop by Alyra (valedictorian), [Solidr](https://x.com/solidr_app) <br />
