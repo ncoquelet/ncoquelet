@@ -9,13 +9,13 @@ Follow Me !<br />
 🏠 Paris 
 
 ```
-const const = {
+const ME = {
     pronouns: "He" | "Him",
     past: "Fullstack Senior Developer",
     present: [Solidity Certified Developer, Learning Rust and Cairo],
     jobs: ["Freelancer", "Open for opportunities"],
     language: [Typescript, Solidity, Cairo, Solana, Rust, Java, Python, ...],
-    askMeAbout: "Explain me your problem and we'll find a solution together",
+    askMeAbout: "Explain your problem to me, and we'll find a solution together.",
     technologies: {
       web3: [Rainbowkit, Wagmi, Viem, Web3.js, Hardhat, Foundry, starknet.js],
       webframework: [React, NextJS, NestJs, Node.js, Jest],
