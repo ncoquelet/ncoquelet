@@ -37,7 +37,7 @@ const ME = {
 👨‍🎓 Jan 2025 — Starknet Basecamp 11 (Cum Laude Graduate), https://x.com/as3cod3r/status/1877024962407456827 <br />
 👷 Nov 2024/now — Daimond Contributor on OnlyDust, [my profile](https://app.onlydust.com/users/ncoquelet/overview) <br />
 🥷🏆 Nov 2024 — ETHGlobal Bangkok Hackathon, Privy Best consumer app Rewards, [Fundev](https://ethglobal.com/showcase/fundev-uebrz) <br />
-🥷 Nov 2024 — Starknet Hacker House Bangkok
+🥷 Nov 2024 — Starknet Hacker House Bangkok <br />
 🥷🏆 Sept/Oct 2024 — Solana Radar Hackathon, 2nd place of Consumer Track, [Trenches.top](https://arena.colosseum.org/projects/explore/trenches.top) <br /> 
 👨‍🎓 Aug 2024 — Cairo/Starknet training, [Starklings](https://github.com/shramee/starklings-cairo1) and [NodeGuardians](https://nodeguardians.io/character/nicode) <br />
 🥷 Jul 2024 — ETHGlobal Brussels Hackathon, [FutarchETH](https://ethglobal.com/showcase/futarcheth-sw2fz) <br />
